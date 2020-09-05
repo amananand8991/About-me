@@ -8,21 +8,5 @@ I am an undergrad physics enthusiast at IISc Bangalore. When I am not doing phys
 
 <img src="https://amananand8991.github.io/About-me/pic.jpeg" alt="my pic">
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
