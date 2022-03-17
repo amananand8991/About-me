@@ -1,6 +1,6 @@
 ## Welcome to My Page
 
-You can find my website on [themaverickphysici.wixsite.com](https://themaverickphysici.wixsite.com/website). I write physics stuffs there when I find something interesting to write on and some free time.
+You can find my website on [themaverickphysicist.wixsite.com](https://themaverickphysici.wixsite.com/website). I write physics stuffs there when I find something interesting to write on and some free time.
 
 
 ### A little bit about me
